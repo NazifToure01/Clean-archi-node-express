@@ -17,7 +17,7 @@ npm install npm@latest -g
 Clonez le dépôt GitHub :
 
 ```bash
-git clone https://github.com/yourusername/your-project-name.git
+git git@github.com:NazifToure01/Clean-archi-node-express.git
 cd your-project-name
 ```
 
